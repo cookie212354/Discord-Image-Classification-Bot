@@ -53,4 +53,4 @@ async def on_message(message):
         # Удаление временного файла
         os.remove(file_name)
 
-bot.run("MTI4NDc3OTAzODg4NzM4MzE0Mw.Gx6a-T.bT8JhiMrWYm65092eOUwXbWNtObnoNfP9euWIM")  # Вставь свой токен
+bot.run("")  # Вставь свой токен
